@@ -1,11 +1,9 @@
-Gif is separated into smaller boxes with space between them and some border styles to give a little bit of a 3d look. 
+<h1>Magic(ish) Boxes</h1>
 
-When you click the magic button, the boxes animate and come together into one large box to display the gif with no separation.
+<img width="500" alt="Screenshot 2023-12-20 at 4 11 23 PM" src="https://github.com/m-wheeler-dev/boxes/assets/105622101/06e5df87-5c9c-4ede-b2c1-e2a6cfda7d0b">
 
-Clicking the button again causes the animation to repeat while separating the large box back into several smaller ones.
+<p>Click the button and the will animate and become one large box</p>
 
-One might assume the animation to be there hard part... but no, I had the hardest time getting the gif to display cleanly throughout multiple squares. Once I was able to understand that part, the rest was a piece of cake. Animations are always fun to play around with.
+<img width="1507" alt="Screenshot 2023-12-20 at 4 11 19 PM" src="https://github.com/m-wheeler-dev/boxes/assets/105622101/af30a9ab-fd54-40eb-acff-144b1f0b2dbf">
 
-Oh, and why a corgi gif? Because corgis are the best!
-
-~ M
+<p>Clicking the button again will cause the box to separate back into the 4x4 grid</p>
